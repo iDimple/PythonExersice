@@ -1,0 +1,1 @@
+{"1": "bathroom", "2": "hallway", "3": "is", "4": "john", "5": "journeyed", "6": "mary", "7": "moved", "8": "the", "9": "to", "10": "travelled", "11": "went", "12": "where"}
